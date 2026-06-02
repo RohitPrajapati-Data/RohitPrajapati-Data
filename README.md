@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Rohit Prajapati 👋
 
-<!--
-**RohitPrajapati-Data/RohitPrajapati-Data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | Power BI | SQL | Excel | Python
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL
+- Power BI
+- Excel
+- Python
+- Data cleaning
+- Data Visualization
+- Business Intelligence
+
+## Featured Projects
+
+### Walgreens Sales Analytics Dashboard
+Power BI dashboard analyzing sales, profit, customers, and orders from 2016–2019.
+
+### HR Analytics Dashboard
+Employee attrition analysis using  Excel.
+
+### E-commerce Data Analysis
+
+
+## Connect With Me
+📧 rohitprajapati00044@gmail.com
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/rohit-prajapati148/
